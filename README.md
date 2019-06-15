@@ -6,4 +6,7 @@ O programa permite ao usuario cadastrar o nome , email, telefone, checkin,checko
 
 ![](fotos/1.png)
 
+
+![](fotos/2.png)
+
 ---------------------------------------------------------------------------------------------------------------------------------------
