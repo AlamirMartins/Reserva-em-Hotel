@@ -16,7 +16,10 @@ Além de possuir uma tabela com os as reservas já feitas, podendo ser ordenanda
 # Manual para Uso
 
 Ao cadastrar o hospede o botão "Inserir" deve ser pressionado para que o programa mostre o custo da hospedagem.
-O cadastro do titular não pode ser feito com menos de três caracteres. Além disso, nenhuma das opções de dados pessoais podem ser preechidas em branco.  
+O cadastro do titular não pode ser feito com menos de três caracteres. Além disso, nenhuma das opções de dados pessoais podem ser preechidas em branco.
+
+[](fotos/9.png)
+
 
 ![](fotos/3.png)
 
@@ -28,6 +31,22 @@ ________________________________________________________________________________
 # Ordenando a tabela
 
  Na inferior da tabela há dois botões que ordenadam os dados por preço ou nome do usuário.
+ 
+ ![](fotos/4.png)
+ -----------------
+ Ordem Alfabética
+ ![](fotos/4.png)
+ ----------------
+ Ordem de custo
+ ![](fotos/4.png)
+ _________________________________________________________________________________________________________________________________
+# Menu Salva e Carregar
+
+No Canto superior esquerdo tem a opção "salvar" e "carregar" arquivos ja criados.
+![](fotos/5.png)
+
+
+
 
 
 
