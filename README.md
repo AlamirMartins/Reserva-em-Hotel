@@ -12,6 +12,10 @@ O programa permite ao usuario cadastrar o nome , email, telefone, checkin,checko
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
-
+Ao cadastrar o hospede o botão inserir deve ser pressionado para que o programa mostre o custo da hospedagem.
 
 ![](fotos/3.png)
+
+![](fotos/4.png)
+
+
