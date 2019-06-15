@@ -2,7 +2,7 @@
 # Projeto feito para a Disciplina de Técnicas de Programação 2019.1 . Programa que cadastra hóspedes em rede de hotel.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-O programa permite ao usuario cadastrar o nome , email, telefone, checkin,checkout, quartos desejados e podendo ordenar a tabela por nome e custo final.
+O programa permite ao usuario cadastrar o nome , email, telefone, checkin,checkout, quartos desejados e podendo ordenar a tabela por nome e custo final. 
 
 ![](fotos/1.png)
 
@@ -10,3 +10,8 @@ O programa permite ao usuario cadastrar o nome , email, telefone, checkin,checko
 ![](fotos/2.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+![](fotos/3.png)
